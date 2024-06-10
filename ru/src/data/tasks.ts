@@ -507,7 +507,7 @@ export const tasks = [
                       Упражнение 
                        <a target="_blank" href="https://dribbble.com/shots/23784355-Illustration-Infographic-Physical-Fitness?utm_source=Clipboard_Shot&utm_campaign=Sapfy&utm_content=Illustration%20%2F%20Infographic%20%2FPhysical%20Fitness&utm_medium=Social_Share">
                          
-                        "Кошка-Корова ↗"
+                        «Кошка-Корова ↗»
                       </a> 
                       — это комплексное упражнение, которое помогает улучшить
                       гибкость и силу спины, стабилизировать позвоночник и снять
@@ -814,7 +814,7 @@ export const tasks = [
           <p>
             Упражнение 
              <a target="_blank" href="https://dribbble.com/shots/23784355-Illustration-Infographic-Physical-Fitness?utm_source=Clipboard_Shot&utm_campaign=Sapfy&utm_content=Illustration%20%2F%20Infographic%20%2FPhysical%20Fitness&utm_medium=Social_Share">
-              "Кошка-Корова ↗"
+              «Кошка-Корова ↗»
             </a> 
             — это комплексное упражнение, которое помогает улучшить
             гибкость и силу спины, стабилизировать позвоночник и снять
@@ -1115,7 +1115,7 @@ export const tasks = [
           <p>
             Упражнение 
              <a target="_blank" href="https://dribbble.com/shots/23784355-Illustration-Infographic-Physical-Fitness?utm_source=Clipboard_Shot&utm_campaign=Sapfy&utm_content=Illustration%20%2F%20Infographic%20%2FPhysical%20Fitness&utm_medium=Social_Share">
-              "Кошка-Корова ↗"
+              «Кошка-Корова ↗»
             </a> 
             — это комплексное упражнение, которое помогает улучшить
             гибкость и силу спины, стабилизировать позвоночник и снять
@@ -1404,7 +1404,7 @@ export const tasks = [
                   <p>
                     Упражнение 
                      <a target="_blank" href="https://dribbble.com/shots/23784355-Illustration-Infographic-Physical-Fitness?utm_source=Clipboard_Shot&utm_campaign=Sapfy&utm_content=Illustration%20%2F%20Infographic%20%2FPhysical%20Fitness&utm_medium=Social_Share">
-                      "Кошка-Корова ↗"
+                      «Кошка-Корова ↗»
                     </a> 
                     — это комплексное упражнение, которое помогает улучшить
                     гибкость и силу спины, стабилизировать позвоночник и снять
